@@ -1,0 +1,4 @@
+name: ResidenceManager
+version: '${project.version}'
+main: com.chiliasmstudio.ResidenceManager
+api-version: '1.20'
